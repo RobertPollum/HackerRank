@@ -1,3 +1,4 @@
+package org.robert.pollum.LonelyInteger;
 import static java.util.stream.Collectors.toList;
 
 import java.io.BufferedReader;

@@ -1,5 +1,6 @@
 package org.robert.pollum.TowerBreakers;
 import java.io.*;
+import java.util.stream.IntStream;
 
 class Result {
 
